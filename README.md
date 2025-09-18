@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🤝 I’m looking for help with scaling and optimizing cloud-based applications<br>
 -->
 
 # 💫 About Me:
-🤝 I’m looking for help with scaling and optimizing cloud-based applications<br>🌱 I’m currently learning new trends in web, mobile, and AI development<br>⚡ Fun fact: I love exploring new tech stacks and can spend hours debugging until I figure things out.  <br>
+🌱 I’m currently learning new trends in web, mobile, and AI development<br>⚡ Fun fact: I love exploring new tech stacks and can spend hours debugging until I figure things out.  <br>
 
 
 ## 🌐 Socials:
